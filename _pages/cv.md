@@ -41,14 +41,17 @@ Work experience
   * Duties included: Design, Installation and operation of helium well
   * Supervisor: Dr. Calvin Winter, Dr. Ovi Marin
   
-Skills
+Technial Expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Radar system design and analysis
+  * Radar signal processing
+  * Synthetic aperture radar analysis and design
+  * Ground penetrating radar analysis and design
+  * Image processing
+  * Vivaldi antennas, design and fabrication
+* Trained in using MATLAB, C, C++, Java, VHDL
+* Familiarity in using Chapel, Python, Inkscape, Eagle, FreeCAD, OPENCL, TEX   
+
 
 Publications
 ======
