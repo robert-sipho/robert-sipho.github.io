@@ -11,21 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Graduate student in Electrical and Computer Engineering 
+  * Specializing in Electromagnectics, Radar Systems and Signal Processing
+  * Thesis title: Ultra-wideband radar from detecting low RCS and low contrast dielectric discontinuities
+* B.S. in Enineering Physics, University of Alberta, 2016
+
+Awards and Scholarships
+======
+* Alberta Graduate Excellence Scholarship, September 2019
+* Queen Elizabeth II Doctoral Scholarship, September 2018
+* Queen Elizabeth II MAster's Award Septermber 2017
+* NSERC USRA Summer 2013
+* University Acaemic Excellence Scholarship, April 2016
+* Faculty of Engineering Academic Excellcence Scholarship, September 2012
+* Dean of Engineering Entrace Scholarship, September 2012
+
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant 
+  * University of Alberta, Edmonton, Canada, September 2016-present
+  * Duties include: Conducting Experiments, supporting research of other grad students
+  * Supervisor: Professor Rambabu Karumudi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer student 
+  * Quantum Technology, Squamish British Columbia, April-August 2014
+  * Duties included: Design, Installation and operation of helium well
+  * Supervisor: Dr. Calvin Winter, Dr. Ovi Marin
   
 Skills
 ======
@@ -54,6 +68,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
