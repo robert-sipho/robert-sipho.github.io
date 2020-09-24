@@ -21,7 +21,7 @@ Student testimonials
 * Robert was both kind and strict, in a way that made sure we were on schedule with our tasks while providing useful feedback and a positive atmosphere. His strictness was
 necessary for a course like this, and his kindness made it that much more enjoyable.
 
-Robert tended to be negative at times and not always enthusiastic about our project. He was not always able to answer our questions about design but was helpful clarifying
+* Robert tended to be negative at times and not always enthusiastic about our project. He was not always able to answer our questions about design but was helpful clarifying
 what the requirements of the course where. I wish Robert provided us with additional feedback regarding our weekly reports, but he more than compensated for this by
 spending plenty of additional time helping us.
 * Robert served as the TA of my lab section, and one of the best sources of information as to what is actually going on in the course.
