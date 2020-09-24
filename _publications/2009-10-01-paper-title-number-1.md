@@ -12,6 +12,4 @@ This paper investigates the pulse propagation in the near field of a transmitter
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
-
-R. S. C. Winter, D.Oloumi, K.Rambabu, UWB Sensor Characterization for Radar Sensing and Imaging in Superluminal Propagation Regions, in IEEE Transactions on Microwave Theory and Techniques, accepted
+Recommended citation: R. S. C. Winter, D. Oloumi and K. Rambabu, &quot;UWB Sensor Characterization for Radar Sensing and Imaging in Superluminal Propagation Regions,&quot; in <i>IEEE Transactions on Microwave Theory and Techniques</i>, doi: 10.1109/TMTT.2020.3023095.
