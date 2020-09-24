@@ -1,11 +1,11 @@
 ---
-title: "Teaching assistant"
+title: "Teaching assistant circuits class"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Class"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "Melbourne, Australia"
+venue: "University of Alberta, Department of Electrical and Computer Engineering"
+date: 2019-08-01
+location: "Edmonton, Canada"
 ---
 
 Teaching assistant for ECE 203 circuits class

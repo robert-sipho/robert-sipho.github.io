@@ -1,9 +1,9 @@
 ---
 title: "Teaching assitant Capstone class"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Capstone Class"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Alberta, Department Computer and Electrical Engineering"
+venue: "University of Alberta, Department of Electrical and Computer Engineering"
 date: 2018-09-01
 location: "Edmonton, Canada"
 ---
@@ -12,7 +12,7 @@ Teaching assistant for ECE 490 Capstone class
 
 Class desciption
 ======
-The first of two design courses that must be taken in the same academic year. Student teams research, propose, design, develop, document, prototype, and present a practical engineering system or device; teams exercise creativity and make assumptions and decisions based on technical knowledge. This first course includes project definition, planning, and initial prototyping. Formal reports and presentation of the project proposal is required
+The first of two design courses that must be taken in the same academic year. Student teams research, propose, design, develop, document, prototype, and present a practical engineering system or device; teams exercise creativity and make assumptions and decisions based on technical knowledge. This first course includes project definition, planning, and initial prototyping. Formal reports and presentation of the project proposal is required[^1]
 
 
 Student testimonials
@@ -42,3 +42,6 @@ Quantatative score
     * Median 4.7, Reference Data 25%, 50%, 75%: 4.1, 4.5, 4.7  
 * Overall, the teaching assistant was excellent
     * Median 4.8, Reference Data 25%, 50%, 75%: 4.0, 4.4, 4.7      
+
+
+[^1]: This was the first semester of a full year class. The univsersity suspended scoring and feedback for the second semester as it took place during the Covid-19 pandemic
