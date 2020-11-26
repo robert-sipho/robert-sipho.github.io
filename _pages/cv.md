@@ -18,6 +18,7 @@ Education
 
 Awards and Scholarships
 ======
+* Alberta Graduate Excellence Scholarship, September 2020
 * Alberta Graduate Excellence Scholarship, September 2019
 * Queen Elizabeth II Doctoral Scholarship, September 2018
 * Queen Elizabeth II MAster's Award Septermber 2017

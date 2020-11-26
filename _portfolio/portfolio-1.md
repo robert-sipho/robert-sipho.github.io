@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Vegetation Sampling using Python GUI"
+excerpt: "Vegetation Sampling using Python GUI<br/><img src='/images/gui_window.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The people at arctic raptors asked for a small graphical user interface so that their techs could go through the data. Images are created with a transect point. The program loads the images and allows users to navigate through using their keyboard or mouse, while inputing the information specific. The program then can print out the data to a .csv file where ecologists can analyze the data. 
